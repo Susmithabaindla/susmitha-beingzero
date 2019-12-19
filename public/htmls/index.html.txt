@@ -1,0 +1,11 @@
+<html>
+    <head>
+	<title>Page title</title>
+          <link rel="shortcut icon" href="img/ico">
+<link rel="stylesheet" href="css/site.css">
+     </head>
+<body>
+<script> src="js/site.js"></script>
+</body>
+</html>
+
